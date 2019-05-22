@@ -2,4 +2,4 @@ Test line 1. (LOCAL)
 
 Test line 2. (LOCAL)
 
-Test line 3. (LOCAL)
+Test line 3. (LOCAL/REMOTE)
